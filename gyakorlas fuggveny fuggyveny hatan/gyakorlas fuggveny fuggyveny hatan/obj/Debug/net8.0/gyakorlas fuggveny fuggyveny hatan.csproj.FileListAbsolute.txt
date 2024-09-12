@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\bin\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\bin\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\bin\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\bin\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\bin\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\refint\gyakorlas fuggveny fuggyveny hatan.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\gyakorlas fuggveny fuggyveny hatan.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\gyakorlas fuggveny fuggyveny hatan\gyakorlas fuggveny fuggyveny hatan\obj\Debug\net8.0\ref\gyakorlas fuggveny fuggyveny hatan.dll

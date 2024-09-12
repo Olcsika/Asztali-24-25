@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Lébár Olivér\\Asztali2023-2024\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj": {}
+    "D:\\munkakönyvtár\\Lébár Olivér\\Asztali-24-25\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Lébár Olivér\\Asztali2023-2024\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj": {
+    "D:\\munkakönyvtár\\Lébár Olivér\\Asztali-24-25\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Lébár Olivér\\Asztali2023-2024\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj",
+        "projectUniqueName": "D:\\munkakönyvtár\\Lébár Olivér\\Asztali-24-25\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj",
         "projectName": "gyakorlas fuggveny fuggyveny hatan",
-        "projectPath": "D:\\munkakönyvtár\\Lébár Olivér\\Asztali2023-2024\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj",
+        "projectPath": "D:\\munkakönyvtár\\Lébár Olivér\\Asztali-24-25\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan.csproj",
         "packagesPath": "C:\\Users\\lebaro21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Lébár Olivér\\Asztali2023-2024\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\obj\\",
+        "outputPath": "D:\\munkakönyvtár\\Lébár Olivér\\Asztali-24-25\\gyakorlas fuggveny fuggyveny hatan\\gyakorlas fuggveny fuggyveny hatan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lebaro21\\AppData\\Roaming\\NuGet\\NuGet.Config",

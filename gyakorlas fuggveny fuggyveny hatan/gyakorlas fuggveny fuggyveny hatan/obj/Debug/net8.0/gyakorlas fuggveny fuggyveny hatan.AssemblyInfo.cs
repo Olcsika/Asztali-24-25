@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gyakorlas fuggveny fuggyveny hatan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d279abb737a386b939e0bd7e71260b107cdbeb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4c746ff9e7124288da2eb8140cfc6a0ba79593")]
 [assembly: System.Reflection.AssemblyProductAttribute("gyakorlas fuggveny fuggyveny hatan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gyakorlas fuggveny fuggyveny hatan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

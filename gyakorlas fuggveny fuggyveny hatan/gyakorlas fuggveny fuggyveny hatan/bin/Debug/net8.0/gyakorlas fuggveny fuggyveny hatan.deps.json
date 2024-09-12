@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gyakorlas fuggveny fuggyveny hatan/1.0.0": {
+        "runtime": {
+          "gyakorlas fuggveny fuggyveny hatan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gyakorlas fuggveny fuggyveny hatan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
