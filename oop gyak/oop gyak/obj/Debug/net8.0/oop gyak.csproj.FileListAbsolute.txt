@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\bin\Debug\net8.0\oop gyak.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\bin\Debug\net8.0\oop gyak.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\bin\Debug\net8.0\oop gyak.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\bin\Debug\net8.0\oop gyak.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\bin\Debug\net8.0\oop gyak.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\refint\oop gyak.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\oop gyak.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyak\oop gyak\obj\Debug\net8.0\ref\oop gyak.dll
