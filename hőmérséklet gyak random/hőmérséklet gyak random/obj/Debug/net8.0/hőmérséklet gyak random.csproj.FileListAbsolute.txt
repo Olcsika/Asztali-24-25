@@ -1,0 +1,14 @@
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\bin\Debug\net8.0\hőmérséklet gyak random.exe
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\bin\Debug\net8.0\hőmérséklet gyak random.deps.json
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\bin\Debug\net8.0\hőmérséklet gyak random.runtimeconfig.json
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\bin\Debug\net8.0\hőmérséklet gyak random.dll
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\bin\Debug\net8.0\hőmérséklet gyak random.pdb
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\hőmérséklet gyak random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\hőmérséklet gyak random.AssemblyInfoInputs.cache
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\hőmérséklet gyak random.AssemblyInfo.cs
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\hőmérséklet gyak random.csproj.CoreCompileInputs.cache
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\hőmérséklet gyak random.dll
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\refint\hőmérséklet gyak random.dll
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\hőmérséklet gyak random.pdb
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\hőmérséklet gyak random.genruntimeconfig.cache
+C:\Users\lebaro21\source\repos\hőmérséklet gyak random\hőmérséklet gyak random\obj\Debug\net8.0\ref\hőmérséklet gyak random.dll
