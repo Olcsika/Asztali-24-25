@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\bin\Debug\net8.0\Körök.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\bin\Debug\net8.0\Körök.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\bin\Debug\net8.0\Körök.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\bin\Debug\net8.0\Körök.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\bin\Debug\net8.0\Körök.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\refint\Körök.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\Körök.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Körök\Körök\obj\Debug\net8.0\ref\Körök.dll

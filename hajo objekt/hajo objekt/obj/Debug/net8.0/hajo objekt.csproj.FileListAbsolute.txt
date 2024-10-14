@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\bin\Debug\net8.0\hajo objekt.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\bin\Debug\net8.0\hajo objekt.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\bin\Debug\net8.0\hajo objekt.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\bin\Debug\net8.0\hajo objekt.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\bin\Debug\net8.0\hajo objekt.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\refint\hajo objekt.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\hajo objekt.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\hajo objekt\hajo objekt\obj\Debug\net8.0\ref\hajo objekt.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\hajo jo objekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA83619-3410-4DEC-A45E-EAC792C1C966}|hajo jo objekt\\hajo jo objekt.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\hajo jo objekt\\hajo jo objekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA83619-3410-4DEC-A45E-EAC792C1C966}|hajo jo objekt\\hajo jo objekt.csproj|solutionrelative:hajo jo objekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA83619-3410-4DEC-A45E-EAC792C1C966}|hajo jo objekt\\hajo jo objekt.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\hajo jo objekt\\hajo jo objekt\\hajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA83619-3410-4DEC-A45E-EAC792C1C966}|hajo jo objekt\\hajo jo objekt.csproj|solutionrelative:hajo jo objekt\\hajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA83619-3410-4DEC-A45E-EAC792C1C966}|hajo jo objekt\\hajo jo objekt.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\hajo jo objekt\\hajo jo objekt\\ihajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA83619-3410-4DEC-A45E-EAC792C1C966}|hajo jo objekt\\hajo jo objekt.csproj|solutionrelative:hajo jo objekt\\ihajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hajo.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\hajo jo objekt\\hajo jo objekt\\Hajo.cs",
+              "RelativeDocumentMoniker": "hajo jo objekt\\Hajo.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\hajo jo objekt\\hajo jo objekt\\Hajo.cs",
+              "RelativeToolTip": "hajo jo objekt\\Hajo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:02:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHajo.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\hajo jo objekt\\hajo jo objekt\\IHajo.cs",
+              "RelativeDocumentMoniker": "hajo jo objekt\\IHajo.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\hajo jo objekt\\hajo jo objekt\\IHajo.cs",
+              "RelativeToolTip": "hajo jo objekt\\IHajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:48:34.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\hajo jo objekt\\hajo jo objekt\\Program.cs",
+              "RelativeDocumentMoniker": "hajo jo objekt\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\hajo jo objekt\\hajo jo objekt\\Program.cs",
+              "RelativeToolTip": "hajo jo objekt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:46:57.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
