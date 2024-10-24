@@ -1,0 +1,25 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\bin\Debug\net8.0-windows\2 ablak.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\bin\Debug\net8.0-windows\2 ablak.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\bin\Debug\net8.0-windows\2 ablak.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\bin\Debug\net8.0-windows\2 ablak.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\bin\Debug\net8.0-windows\2 ablak.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\Window1.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak_MarkupCompile.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak_MarkupCompile.lref
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\Window1.baml
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.g.resources
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\refint\2 ablak.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\2 ablak.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\ref\2 ablak.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\Window2.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2 ablak\2 ablak\obj\Debug\net8.0-windows\Window2.baml
