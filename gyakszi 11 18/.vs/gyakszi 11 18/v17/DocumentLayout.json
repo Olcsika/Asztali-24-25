@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyakszi 11 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8D80E7-39E1-4E8A-8C93-B2CB4584587F}|gyakszi 11 18\\gyakszi 11 18.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\gyakszi 11 18\\gyakszi 11 18\\gyumolcsok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D80E7-39E1-4E8A-8C93-B2CB4584587F}|gyakszi 11 18\\gyakszi 11 18.csproj|solutionrelative:gyakszi 11 18\\gyumolcsok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8D80E7-39E1-4E8A-8C93-B2CB4584587F}|gyakszi 11 18\\gyakszi 11 18.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\gyakszi 11 18\\gyakszi 11 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D80E7-39E1-4E8A-8C93-B2CB4584587F}|gyakszi 11 18\\gyakszi 11 18.csproj|solutionrelative:gyakszi 11 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gyumolcsok.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyakszi 11 18\\gyakszi 11 18\\gyumolcsok.cs",
+              "RelativeDocumentMoniker": "gyakszi 11 18\\gyumolcsok.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyakszi 11 18\\gyakszi 11 18\\gyumolcsok.cs",
+              "RelativeToolTip": "gyakszi 11 18\\gyumolcsok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:06:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyakszi 11 18\\gyakszi 11 18\\Program.cs",
+              "RelativeDocumentMoniker": "gyakszi 11 18\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyakszi 11 18\\gyakszi 11 18\\Program.cs",
+              "RelativeToolTip": "gyakszi 11 18\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:41:30.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

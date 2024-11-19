@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|solutionrelative:ablakos mindens\u00E9g\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|solutionrelative:ablakos mindens\u00E9g\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|solutionrelative:ablakos mindens\u00E9g\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7596F505-86D8-4134-B749-02CCEC1C1042}|ablakos mindens\u00E9g\\ablakos mindens\u00E9g.csproj|solutionrelative:ablakos mindens\u00E9g\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "ablakos mindens\u00E9g\\Window1.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\Window1.xaml.cs",
+              "RelativeToolTip": "ablakos mindens\u00E9g\\Window1.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4vyAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:42:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\Window1.xaml",
+              "RelativeDocumentMoniker": "ablakos mindens\u00E9g\\Window1.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\Window1.xaml",
+              "RelativeToolTip": "ablakos mindens\u00E9g\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T11:40:39.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ablakos mindens\u00E9g\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\MainWindow.xaml",
+              "RelativeToolTip": "ablakos mindens\u00E9g\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T11:39:33.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ablakos mindens\u00E9g\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\ablakos mindens\u00E9g\\ablakos mindens\u00E9g\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ablakos mindens\u00E9g\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:39:30.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

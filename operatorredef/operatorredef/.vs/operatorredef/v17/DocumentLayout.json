@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\operatorredef\\operatorredef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B378E1D2-0CE9-4A83-890E-3480F763E623}|operatorredef\\operatorredef.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\operatorredef\\operatorredef\\operatorredef\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B378E1D2-0CE9-4A83-890E-3480F763E623}|operatorredef\\operatorredef.csproj|solutionrelative:operatorredef\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B378E1D2-0CE9-4A83-890E-3480F763E623}|operatorredef\\operatorredef.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\operatorredef\\operatorredef\\operatorredef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B378E1D2-0CE9-4A83-890E-3480F763E623}|operatorredef\\operatorredef.csproj|solutionrelative:operatorredef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pont.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\operatorredef\\operatorredef\\operatorredef\\Pont.cs",
+              "RelativeDocumentMoniker": "operatorredef\\Pont.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\operatorredef\\operatorredef\\operatorredef\\Pont.cs",
+              "RelativeToolTip": "operatorredef\\Pont.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:55:57.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\operatorredef\\operatorredef\\operatorredef\\Program.cs",
+              "RelativeDocumentMoniker": "operatorredef\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\operatorredef\\operatorredef\\operatorredef\\Program.cs",
+              "RelativeToolTip": "operatorredef\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:55:31.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

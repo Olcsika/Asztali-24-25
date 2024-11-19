@@ -1,0 +1,23 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\bin\Debug\net8.0-windows\ablakos mindenség.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\bin\Debug\net8.0-windows\ablakos mindenség.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\bin\Debug\net8.0-windows\ablakos mindenség.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\bin\Debug\net8.0-windows\ablakos mindenség.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\bin\Debug\net8.0-windows\ablakos mindenség.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\Window1.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség_MarkupCompile.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség_MarkupCompile.lref
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\Window1.baml
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.g.resources
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\refint\ablakos mindenség.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ablakos mindenség.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\ablakos mindenség\ablakos mindenség\obj\Debug\net8.0-windows\ref\ablakos mindenség.dll

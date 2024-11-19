@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\2 ablak\\2 ablak\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|solutionrelative:2 ablak\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\2 ablak\\2 ablak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|solutionrelative:2 ablak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\2 ablak\\2 ablak\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|solutionrelative:2 ablak\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\2 ablak\\2 ablak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\2 ablak\\2 ablak\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|solutionrelative:2 ablak\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\2 ablak\\2 ablak\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|solutionrelative:2 ablak\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\2 ablak\\2 ablak\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E8C131A-BED2-4A0A-B95F-97E7B8007948}|2 ablak\\2 ablak.csproj|solutionrelative:2 ablak\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Window2.xaml.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\Window2.xaml.cs",
               "RelativeDocumentMoniker": "2 ablak\\Window2.xaml.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Window2.xaml",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\Window2.xaml",
               "RelativeDocumentMoniker": "2 ablak\\Window2.xaml",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Window1.xaml.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "2 ablak\\Window1.xaml.cs",
@@ -71,42 +71,39 @@
               "RelativeToolTip": "2 ablak\\Window1.xaml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAD4vx4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:13:12.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:13:12.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Window1.xaml",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\Window1.xaml",
               "RelativeDocumentMoniker": "2 ablak\\Window1.xaml",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\Window1.xaml",
               "RelativeToolTip": "2 ablak\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-24T08:12:56.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:12:56.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\MainWindow.xaml",
               "RelativeDocumentMoniker": "2 ablak\\MainWindow.xaml",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\MainWindow.xaml",
               "RelativeToolTip": "2 ablak\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-24T08:12:10.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:12:10.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "2 ablak\\MainWindow.xaml.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\2 ablak\\2 ablak\\MainWindow.xaml.cs",
               "RelativeToolTip": "2 ablak\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAEwCAAAAAYAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:12:09.453Z",
               "EditorCaption": ""

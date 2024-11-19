@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\bin\Debug\net8.0\operatorredef.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\bin\Debug\net8.0\operatorredef.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\bin\Debug\net8.0\operatorredef.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\bin\Debug\net8.0\operatorredef.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\bin\Debug\net8.0\operatorredef.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\refint\operatorredef.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\operatorredef.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\operatorredef\operatorredef\operatorredef\obj\Debug\net8.0\ref\operatorredef.dll

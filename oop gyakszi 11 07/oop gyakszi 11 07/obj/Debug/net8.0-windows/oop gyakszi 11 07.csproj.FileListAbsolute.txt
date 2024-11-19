@@ -1,0 +1,21 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\bin\Debug\net8.0-windows\oop gyakszi 11 07.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\bin\Debug\net8.0-windows\oop gyakszi 11 07.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\bin\Debug\net8.0-windows\oop gyakszi 11 07.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\bin\Debug\net8.0-windows\oop gyakszi 11 07.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\bin\Debug\net8.0-windows\oop gyakszi 11 07.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07_MarkupCompile.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07_MarkupCompile.lref
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.g.resources
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\refint\oop gyakszi 11 07.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\oop gyakszi 11 07.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\oop gyakszi 11 07\oop gyakszi 11 07\obj\Debug\net8.0-windows\ref\oop gyakszi 11 07.dll
