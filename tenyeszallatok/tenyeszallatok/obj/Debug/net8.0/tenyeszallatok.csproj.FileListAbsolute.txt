@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\bin\Debug\net8.0\tenyeszallatok.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\bin\Debug\net8.0\tenyeszallatok.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\bin\Debug\net8.0\tenyeszallatok.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\bin\Debug\net8.0\tenyeszallatok.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\bin\Debug\net8.0\tenyeszallatok.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\refint\tenyeszallatok.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\tenyeszallatok.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\tenyeszallatok\tenyeszallatok\obj\Debug\net8.0\ref\tenyeszallatok.dll

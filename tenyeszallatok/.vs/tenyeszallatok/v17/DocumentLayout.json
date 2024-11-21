@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\tenyeszallatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEAF0C-BEF5-445B-924E-CD86B4AECC94}|tenyeszallatok\\tenyeszallatok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\tenyeszallatok\\tenyeszallatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEEAF0C-BEF5-445B-924E-CD86B4AECC94}|tenyeszallatok\\tenyeszallatok.csproj|solutionrelative:tenyeszallatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEAF0C-BEF5-445B-924E-CD86B4AECC94}|tenyeszallatok\\tenyeszallatok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\tenyeszallatok\\tenyeszallatok\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEEAF0C-BEF5-445B-924E-CD86B4AECC94}|tenyeszallatok\\tenyeszallatok.csproj|solutionrelative:tenyeszallatok\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEAF0C-BEF5-445B-924E-CD86B4AECC94}|tenyeszallatok\\tenyeszallatok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\tenyeszallatok\\tenyeszallatok\\csoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEEAF0C-BEF5-445B-924E-CD86B4AECC94}|tenyeszallatok\\tenyeszallatok.csproj|solutionrelative:tenyeszallatok\\csoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "csoport.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\tenyeszallatok\\tenyeszallatok\\csoport.cs",
+              "RelativeDocumentMoniker": "tenyeszallatok\\csoport.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\tenyeszallatok\\tenyeszallatok\\csoport.cs",
+              "RelativeToolTip": "tenyeszallatok\\csoport.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:16:58.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "allat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\tenyeszallatok\\tenyeszallatok\\allat.cs",
+              "RelativeDocumentMoniker": "tenyeszallatok\\allat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\tenyeszallatok\\tenyeszallatok\\allat.cs",
+              "RelativeToolTip": "tenyeszallatok\\allat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:15:01.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\tenyeszallatok\\tenyeszallatok\\Program.cs",
+              "RelativeDocumentMoniker": "tenyeszallatok\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\tenyeszallatok\\tenyeszallatok\\Program.cs",
+              "RelativeToolTip": "tenyeszallatok\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:12:56.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
