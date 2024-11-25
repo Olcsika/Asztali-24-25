@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\bin\Debug\net8.0\vonatos oop.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\bin\Debug\net8.0\vonatos oop.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\bin\Debug\net8.0\vonatos oop.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\bin\Debug\net8.0\vonatos oop.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\bin\Debug\net8.0\vonatos oop.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\refint\vonatos oop.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\vonatos oop.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\vonatos oop\vonatos oop\obj\Debug\net8.0\ref\vonatos oop.dll
