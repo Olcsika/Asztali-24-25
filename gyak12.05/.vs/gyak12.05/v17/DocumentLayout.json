@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyak12.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7603F4-A1C7-47B8-8A67-86AD27E178B7}|gyak12.05\\gyak12.05.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\gyak12.05\\gyak12.05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7603F4-A1C7-47B8-8A67-86AD27E178B7}|gyak12.05\\gyak12.05.csproj|solutionrelative:gyak12.05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyak12.05\\gyak12.05\\Program.cs",
+              "RelativeDocumentMoniker": "gyak12.05\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\gyak12.05\\gyak12.05\\Program.cs",
+              "RelativeToolTip": "gyak12.05\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:19:05.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
