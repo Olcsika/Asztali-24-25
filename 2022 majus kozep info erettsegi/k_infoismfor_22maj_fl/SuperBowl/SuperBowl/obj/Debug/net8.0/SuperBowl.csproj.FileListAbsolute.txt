@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\refint\SuperBowl.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\2022 majus kozep info erettsegi\k_infoismfor_22maj_fl\SuperBowl\SuperBowl\obj\Debug\net8.0\ref\SuperBowl.dll

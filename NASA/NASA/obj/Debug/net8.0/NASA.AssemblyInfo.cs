@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NASA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b5b8c891d974d89d596ed4b5ad77dbd2d932c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba54934373541fe403050f934ddde519352740d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("NASA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NASA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
