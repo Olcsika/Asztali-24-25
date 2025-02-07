@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\bin\Debug\net8.0\link ize.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\bin\Debug\net8.0\link ize.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\bin\Debug\net8.0\link ize.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\bin\Debug\net8.0\link ize.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\bin\Debug\net8.0\link ize.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\refint\link ize.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\link ize.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\link ize\link ize\obj\Debug\net8.0\ref\link ize.dll

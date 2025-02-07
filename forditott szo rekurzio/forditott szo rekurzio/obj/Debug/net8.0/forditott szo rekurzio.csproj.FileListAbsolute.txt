@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\bin\Debug\net8.0\forditott szo rekurzio.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\bin\Debug\net8.0\forditott szo rekurzio.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\bin\Debug\net8.0\forditott szo rekurzio.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\bin\Debug\net8.0\forditott szo rekurzio.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\bin\Debug\net8.0\forditott szo rekurzio.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\refint\forditott szo rekurzio.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\forditott szo rekurzio.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\forditott szo rekurzio\forditott szo rekurzio\obj\Debug\net8.0\ref\forditott szo rekurzio.dll

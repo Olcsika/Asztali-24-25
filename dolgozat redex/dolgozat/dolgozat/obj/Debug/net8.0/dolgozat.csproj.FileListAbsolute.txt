@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\bin\Debug\net8.0\dolgozat.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\bin\Debug\net8.0\dolgozat.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\bin\Debug\net8.0\dolgozat.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\bin\Debug\net8.0\dolgozat.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\bin\Debug\net8.0\dolgozat.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\refint\dolgozat.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\dolgozat.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\dolgozat redex\dolgozat\dolgozat\obj\Debug\net8.0\ref\dolgozat.dll

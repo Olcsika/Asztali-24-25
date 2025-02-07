@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\bin\Debug\net8.0\BeléptetRendszer.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\bin\Debug\net8.0\BeléptetRendszer.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\bin\Debug\net8.0\BeléptetRendszer.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\bin\Debug\net8.0\BeléptetRendszer.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\bin\Debug\net8.0\BeléptetRendszer.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\refint\BeléptetRendszer.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\BeléptetRendszer.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\BeléptetRendszer\BeléptetRendszer\obj\Debug\net8.0\ref\BeléptetRendszer.dll

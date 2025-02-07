@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "forditott szo rekurzio/1.0.0": {
+        "runtime": {
+          "forditott szo rekurzio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forditott szo rekurzio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

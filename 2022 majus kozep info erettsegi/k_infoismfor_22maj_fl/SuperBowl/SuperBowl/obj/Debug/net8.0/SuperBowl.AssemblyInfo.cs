@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperBowl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+451638436daf91438a83c3181575241265cb7775")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fac5e42804ab1633c9c661fb4cd5617c3963641")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperBowl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperBowl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

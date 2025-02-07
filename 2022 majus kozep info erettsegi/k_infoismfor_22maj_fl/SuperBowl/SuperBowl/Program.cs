@@ -30,3 +30,5 @@ foreach(string i in Ssz)
 
 Console.WriteLine("1. feladat: {0}",Ssz.Count);
 reader.Close();
+
+

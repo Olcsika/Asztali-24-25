@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Bel\u00E9ptetRendszer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50688333-2F35-4062-B303-4C076AB01B89}|Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\bel\u00E9ptetrendszer\\bel\u00E9ptetrendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50688333-2F35-4062-B303-4C076AB01B89}|Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer.csproj|solutionrelative:bel\u00E9ptetrendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50688333-2F35-4062-B303-4C076AB01B89}|Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\bel\u00E9ptetrendszer\\bel\u00E9ptetrendszer\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50688333-2F35-4062-B303-4C076AB01B89}|Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer.csproj|solutionrelative:bel\u00E9ptetrendszer\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer\\adatok.cs",
+              "RelativeDocumentMoniker": "Bel\u00E9ptetRendszer\\adatok.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer\\adatok.cs",
+              "RelativeToolTip": "Bel\u00E9ptetRendszer\\adatok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:44:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer\\Program.cs",
+              "RelativeDocumentMoniker": "Bel\u00E9ptetRendszer\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Bel\u00E9ptetRendszer\\Bel\u00E9ptetRendszer\\Program.cs",
+              "RelativeToolTip": "Bel\u00E9ptetRendszer\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwF4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:40:06.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
