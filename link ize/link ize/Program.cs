@@ -60,5 +60,11 @@ if (darab == 0)
 else
 {
     Console.WriteLine(szin);
-    Console.WriteLine(String.Join(" ", szinek);
+    Console.WriteLine(String.Join(" ", szinek));
 }
+List<Adatok> szurt =viragok.Where((elem)=>elem.benneVanEz(be)).ToList();
+Console.WriteLine(szurt.First().szin);
+Console.WriteLine(szurt.Count);
+Console.WriteLine("osszszin",String.Join(" ",szurt.Select(elem=>elem.szin).Distinct() ));
+
+
