@@ -1,0 +1,5 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.sourcelink.json
