@@ -3,6 +3,7 @@ D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.AssemblyInfo.cs
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.csproj.CoreCompileInputs.cache
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.sourcelink.json
+<<<<<<< HEAD
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\bin\Debug\net8.0\rgb szinej.exe
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\bin\Debug\net8.0\rgb szinej.deps.json
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\bin\Debug\net8.0\rgb szinej.runtimeconfig.json
@@ -13,3 +14,5 @@ D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.pdb
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\rgb szinej.genruntimeconfig.cache
 D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\rgb szinej\rgb szinej\obj\Debug\net8.0\ref\rgb szinej.dll
+=======
+>>>>>>> e3f33eaa0bd2325d75c7854ade2611a3b9de64eb

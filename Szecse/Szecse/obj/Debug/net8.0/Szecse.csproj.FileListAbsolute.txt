@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\bin\Debug\net8.0\Szecse.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\bin\Debug\net8.0\Szecse.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\bin\Debug\net8.0\Szecse.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\bin\Debug\net8.0\Szecse.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\bin\Debug\net8.0\Szecse.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\refint\Szecse.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\Szecse.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\Szecse\Szecse\obj\Debug\net8.0\ref\Szecse.dll
