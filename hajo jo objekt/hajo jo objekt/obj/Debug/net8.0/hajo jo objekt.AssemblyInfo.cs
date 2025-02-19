@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hajo jo objekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b5b8c891d974d89d596ed4b5ad77dbd2d932c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43f4ae88ec1c33445c601afbd4daf9fe6bc89435")]
 [assembly: System.Reflection.AssemblyProductAttribute("hajo jo objekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hajo jo objekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

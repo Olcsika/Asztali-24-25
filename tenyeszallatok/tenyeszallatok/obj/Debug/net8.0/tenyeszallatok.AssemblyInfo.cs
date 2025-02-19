@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tenyeszallatok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd26fa33cb0db5a49013596897965111741a3912")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43f4ae88ec1c33445c601afbd4daf9fe6bc89435")]
 [assembly: System.Reflection.AssemblyProductAttribute("tenyeszallatok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tenyeszallatok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

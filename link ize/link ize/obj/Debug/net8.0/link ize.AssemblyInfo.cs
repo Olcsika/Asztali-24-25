@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("link ize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e413120c8906717487bd83e80e7212e6f490f82c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43f4ae88ec1c33445c601afbd4daf9fe6bc89435")]
 [assembly: System.Reflection.AssemblyProductAttribute("link ize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("link ize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

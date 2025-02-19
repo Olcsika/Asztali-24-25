@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hőmérséklet gyak random")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43f4ae88ec1c33445c601afbd4daf9fe6bc89435")]
 [assembly: System.Reflection.AssemblyProductAttribute("hőmérséklet gyak random")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hőmérséklet gyak random")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

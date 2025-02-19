@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\rgb szinej\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\rgb szinej\\rgb szinej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|solutionrelative:rgb szinej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\rgb szinej\\rgb szinej\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|solutionrelative:rgb szinej\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\rgb szinej\\rgb szinej\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|solutionrelative:rgb szinej\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\rgb szinej\\rgb szinej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF75C39A-6248-489F-9311-AEB1A355B0BA}|rgb szinej\\rgb szinej.csproj|solutionrelative:rgb szinej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pixel.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\rgb szinej\\rgb szinej\\Pixel.cs",
               "RelativeDocumentMoniker": "rgb szinej\\Pixel.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\rgb szinej\\rgb szinej\\Pixel.cs",
               "RelativeToolTip": "rgb szinej\\Pixel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:03:51.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\rgb szinej\\rgb szinej\\Class1.cs",
               "RelativeDocumentMoniker": "rgb szinej\\Class1.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\rgb szinej\\rgb szinej\\Class1.cs",
               "RelativeToolTip": "rgb szinej\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T12:49:37.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\rgb szinej\\rgb szinej\\Program.cs",
               "RelativeDocumentMoniker": "rgb szinej\\Program.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\rgb szinej\\rgb szinej\\Program.cs",
               "RelativeToolTip": "rgb szinej\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T12:45:24.445Z",
               "EditorCaption": ""
