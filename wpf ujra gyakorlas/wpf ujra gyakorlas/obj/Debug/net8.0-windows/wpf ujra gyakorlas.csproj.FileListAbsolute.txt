@@ -1,0 +1,21 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\bin\Debug\net8.0-windows\wpf ujra gyakorlas.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\bin\Debug\net8.0-windows\wpf ujra gyakorlas.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\bin\Debug\net8.0-windows\wpf ujra gyakorlas.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\bin\Debug\net8.0-windows\wpf ujra gyakorlas.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\bin\Debug\net8.0-windows\wpf ujra gyakorlas.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas_MarkupCompile.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas_MarkupCompile.lref
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.g.resources
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\refint\wpf ujra gyakorlas.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\wpf ujra gyakorlas.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\wpf ujra gyakorlas\wpf ujra gyakorlas\obj\Debug\net8.0-windows\ref\wpf ujra gyakorlas.dll
