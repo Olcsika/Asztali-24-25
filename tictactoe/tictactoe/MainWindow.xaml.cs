@@ -20,5 +20,54 @@ namespace tictactoe
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            if (button2.Content == "") 
+            {
+                button2.Content ="X";
+            }      
+        }
+
+        private void button2_Copy_Click(object sender, RoutedEventArgs e)
+        {
+            
+            
+        }
+
+        private void button2_Copy1_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button2_Copy2_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button2_Copy3_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button2_Copy4_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button2_Copy5_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button2_Copy6_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button2_Copy7_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

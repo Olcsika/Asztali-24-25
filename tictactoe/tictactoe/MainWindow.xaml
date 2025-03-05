@@ -6,5 +6,15 @@
         xmlns:local="clr-namespace:tictactoe"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid/>
+    <Grid>
+        <Button x:Name="button2" Content="" HorizontalAlignment="Left" Margin="211,50,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Click"/>
+        <Button x:Name="button2_Copy" Content="" HorizontalAlignment="Left" Margin="311,50,0,0" VerticalAlignment="Top" Width="100" Height="100" RenderTransformOrigin="1.78,0.05" Click="button2_Copy_Click"/>
+        <Button x:Name="button2_Copy1" Content="" HorizontalAlignment="Left" Margin="411,50,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Copy1_Click"/>
+        <Button x:Name="button2_Copy2" Content="" HorizontalAlignment="Left" Margin="211,150,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Copy2_Click"/>
+        <Button x:Name="button2_Copy3" Content="" HorizontalAlignment="Left" Margin="311,150,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Copy3_Click"/>
+        <Button x:Name="button2_Copy4" Content="" HorizontalAlignment="Left" Margin="411,150,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Copy4_Click"/>
+        <Button x:Name="button2_Copy5" Content="" HorizontalAlignment="Left" Margin="211,250,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Copy5_Click"/>
+        <Button x:Name="button2_Copy6" Content="" HorizontalAlignment="Left" Margin="311,250,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Copy6_Click"/>
+        <Button x:Name="button2_Copy7" Content="" HorizontalAlignment="Left" Margin="411,250,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="button2_Copy7_Click"/>
+    </Grid>
 </Window>
