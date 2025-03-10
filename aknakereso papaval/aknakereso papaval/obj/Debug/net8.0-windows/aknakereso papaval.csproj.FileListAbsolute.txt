@@ -1,0 +1,21 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\bin\Debug\net8.0-windows\aknakereso papaval.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\bin\Debug\net8.0-windows\aknakereso papaval.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\bin\Debug\net8.0-windows\aknakereso papaval.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\bin\Debug\net8.0-windows\aknakereso papaval.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\bin\Debug\net8.0-windows\aknakereso papaval.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval_MarkupCompile.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval_MarkupCompile.lref
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.g.resources
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\refint\aknakereso papaval.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\aknakereso papaval.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-24-25\aknakereso papaval\aknakereso papaval\obj\Debug\net8.0-windows\ref\aknakereso papaval.dll
