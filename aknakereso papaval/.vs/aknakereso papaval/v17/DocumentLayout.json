@@ -18,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\aknakereso papaval\\aknakereso papaval\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "aknakereso papaval\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\aknakereso papaval\\aknakereso papaval\\MainWindow.xaml.cs",
+              "RelativeToolTip": "aknakereso papaval\\MainWindow.xaml.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAiwM8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:10:55.028Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -29,19 +43,8 @@
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\aknakereso papaval\\aknakereso papaval\\MainWindow.xaml",
               "RelativeToolTip": "aknakereso papaval\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-07T11:37:21.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\aknakereso papaval\\aknakereso papaval\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "aknakereso papaval\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\aknakereso papaval\\aknakereso papaval\\MainWindow.xaml.cs",
-              "RelativeToolTip": "aknakereso papaval\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAwwFgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T11:37:18.837Z",
+              "WhenOpened": "2025-03-11T11:10:55.118Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

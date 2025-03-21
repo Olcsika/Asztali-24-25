@@ -9,4 +9,16 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="akna3.jpg" />
+    <None Remove="thumb_1_420_236_0_0_crop.jpg" />
+    <None Remove="zsu.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="akna3.jpg" />
+    <Resource Include="thumb_1_420_236_0_0_crop.jpg" />
+    <Resource Include="zsu.png" />
+  </ItemGroup>
+
 </Project>
