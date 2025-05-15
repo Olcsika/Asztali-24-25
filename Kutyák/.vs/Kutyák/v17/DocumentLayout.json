@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\kuty\u00E1k\\kuty\u00E1k\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\kuty\u00E1k\\kuty\u00E1k\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\kuty\u00E1k\\kuty\u00E1k\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\kuty\u00E1k\\kuty\u00E1k\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-24-25\\kuty\u00E1k\\kuty\u00E1k\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4B7F4B-9101-47BF-BBA2-88A809CB45CF}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kutya.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\Kutya.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\Kutya.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\Kutya.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\Kutya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:02:40.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KutyaFajta.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaFajta.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\KutyaFajta.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaFajta.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\KutyaFajta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:10:14.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KutyaNev.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaNev.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\KutyaNev.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaNev.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\KutyaNev.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:50:16.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml",
+              "RelativeToolTip": "Kuty\u00E1k\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T10:45:06.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-24-25\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:45:04.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
